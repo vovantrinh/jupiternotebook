@@ -1,0 +1,26 @@
+# Requirements for SSD MVTec Pipeline
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+opencv-python>=4.7.0
+
+# COCO tools
+pycocotools>=2.0.6
+
+# Data processing
+pandas>=2.0.0
+pillow>=9.5.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional: Jupyter for analysis notebook
+jupyter>=1.0.0
+ipykernel>=6.23.0
+
